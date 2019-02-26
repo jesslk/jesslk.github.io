@@ -2,4 +2,4 @@
 title: "My Website"
 ---
       
-Welcome to Jess' Website! 환영합니다 :blush:
+Welcome to Jess' Website! 
