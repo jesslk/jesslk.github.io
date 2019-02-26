@@ -7,5 +7,5 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "My Favorite Package?"
+    - text: "Package:ggplot2"
       href: about.html
