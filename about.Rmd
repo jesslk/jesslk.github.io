@@ -1,0 +1,5 @@
+---
+title: "About Jess"
+---
+Current Master student in Statistics at Iowa State. <br>
+Actively learning how to use github as a web host. 
