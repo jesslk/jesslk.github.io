@@ -2,4 +2,6 @@
 title: "My Website"
 ---
       
-Welcome to Jess' Website! 
+Welcome to Jess' Website! <br>
+I know, there's nothing in my website so far, because this is my first website ever. <br> 
+I hope you've had fun looking around my little website.
