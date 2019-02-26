@@ -9,7 +9,7 @@ Actively learning how to use github as a web host.
 library(datasauRus)
 library(gganimate)
 library(ggplot2)
-
+ 
 ggplot(datasaurus_dozen, aes(x=x, y=y))+
   geom_point()+
   theme_minimal() +
