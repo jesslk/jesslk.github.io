@@ -1,7 +1,7 @@
 <br>
 We can create cool graphics using ggplot2 as below. 
 
-```{r echo = FALSE, message=FALSE}
+```{r echo = FALSE, message=FALSE, warning = FALSE}
 library(ggplot2)
 theme_set(theme_bw())  # pre-set the bw theme.
 data("midwest", package = "ggplot2")
@@ -27,7 +27,7 @@ plot(gg)
 or 
 
 
-```{r echo = FALSE, message=FALSE}
+```{r echo = FALSE, message=FALSE, warning = FALSE}
 library(plotly)
 library(gapminder)
 p <- gapminder %>%
